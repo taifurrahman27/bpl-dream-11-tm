@@ -6,7 +6,7 @@
         "rating": 9.8,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
-        "price": "2500 coins",
+        "price": "250000 coins",
         "playerImg": "https://i.pinimg.com/736x/f4/68/af/f468af582de667dd712dee73e5f24f39.jpg"
     },
     {
@@ -16,7 +16,7 @@
         "rating": 9.5,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": "2200 coins",
+        "price": "220000 coins",
         "playerImg": "https://media.gettyimages.com/id/1713408997/photo/hyderabad-india-babar-azam-of-pakistan-poses-for-a-portrait-ahead-of-the-icc-mens-cricket.jpg?s=612x612&w=gi&k=20&c=yaUrM0JrfA49x4mNq9d85-SVMqLo1CtrvaRDK_dNw8Q="
     },
     {
@@ -26,7 +26,7 @@
         "rating": 9.4,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": "2100 coins",
+        "price": "210000 coins",
         "playerImg": "https://wallpapers.com/images/hd/joe-root-portrait-31krp0eo0xyw2om5.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "rating": 9.3,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": "2000 coins",
+        "price": "200000 coins",
         "playerImg": "https://media.gettyimages.com/id/1733747786/photo/chennai-india-kane-williamson-of-new-zealand-looks-on-with-a-bandage-on-their-hand-following.jpg?s=612x612&w=gi&k=20&c=b5ObF7eksWCmEycePvbrY9hlPdv7sX5UbctYtqbGZVE="
     },
     {
@@ -46,7 +46,7 @@
         "rating": 9.6,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm legbreak",
-        "price": "2300 coins",
+        "price": "230000 coins",
         "playerImg": "https://example.com/smith.jpg"
     },
     {
@@ -56,7 +56,7 @@
         "rating": 9.2,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm orthodox",
-        "price": "2000 coins",
+        "price": "200000 coins",
         "playerImg": "https://example.com/shakib.jpg"
     },
     {
@@ -66,7 +66,7 @@
         "rating": 9.4,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm fast-medium",
-        "price": "2400 coins",
+        "price": "240000 coins",
         "playerImg": "https://example.com/stokes.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "rating": 9.1,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast-medium",
-        "price": "2200 coins",
+        "price": "220000 coins",
         "playerImg": "https://example.com/pandya.jpg"
     },
     {
@@ -86,7 +86,7 @@
         "rating": 9.7,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm legbreak",
-        "price": "2300 coins",
+        "price": "230000 coins",
         "playerImg": "https://example.com/rashid.jpg"
     },
     {
@@ -96,7 +96,7 @@
         "rating": 9.6,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
-        "price": "2400 coins",
+        "price": "240000 coins",
         "playerImg": "https://example.com/bumrah.jpg"
     },
     {
@@ -106,7 +106,7 @@
         "rating": 9.5,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm fast",
-        "price": "2300 coins",
+        "price": "230000 coins",
         "playerImg": "https://example.com/starc.jpg"
     },
     {
@@ -116,7 +116,7 @@
         "rating": 9.3,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Left-arm fast-medium",
-        "price": "2100 coins",
+        "price": "210000 coins",
         "playerImg": "https://example.com/boult.jpg"
     },
     {
@@ -126,7 +126,7 @@
         "rating": 9.2,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm legbreak",
-        "price": "2000 coins",
+        "price": "200000 coins",
         "playerImg": "https://example.com/warner.jpg"
     },
     {
@@ -136,7 +136,7 @@
         "rating": 9.4,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": "2300 coins",
+        "price": "230000 coins",
         "playerImg": "https://example.com/rohit.jpg"
     },
     {
@@ -146,7 +146,7 @@
         "rating": 9.1,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "None",
-        "price": "1900 coins",
+        "price": "190000 coins",
         "playerImg": "https://example.com/dekock.jpg"
     },
     {
@@ -156,7 +156,7 @@
         "rating": 9.5,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "None",
-        "price": "2200 coins",
+        "price": "220000 coins",
         "playerImg": "https://example.com/buttler.jpg"
     },
     {
@@ -166,7 +166,7 @@
         "rating": 9.3,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
-        "price": "2000 coins",
+        "price": "200000 coins",
         "playerImg": "https://example.com/dhoni.jpg"
     },
     {
@@ -176,7 +176,7 @@
         "rating": 9.7,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
-        "price": "2400 coins",
+        "price": "240000 coins",
         "playerImg": "https://example.com/ab.jpg"
     },
     {
@@ -186,7 +186,7 @@
         "rating": 9.2,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
-        "price": "1800 coins",
+        "price": "180000 coins",
         "playerImg": "https://example.com/malinga.jpg"
     },
     {
@@ -196,7 +196,7 @@
         "rating": 9.9,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": "2500 coins",
+        "price": "250000 coins",
         "playerImg": "https://example.com/murali.jpg"
     }
 ]
