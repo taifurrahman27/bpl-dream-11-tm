@@ -3,7 +3,7 @@ import React from 'react';
 import Card from '../Card/Card';
 
 
-const AvailablePlayers = ({ players, setCoin, coin }) => {
+const AvailablePlayers = ({ players, setCoin, coin, selectedPlayers, setSelectedPlayers }) => {
 
     return (
         <div className='container mx-auto'>
@@ -11,7 +11,7 @@ const AvailablePlayers = ({ players, setCoin, coin }) => {
             <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-5'>
                 {
                     players.map(player => {
-                        return <Card player={player} setCoin={setCoin} coin={coin} />
+                        return <Card key={player.playerName} player={player} setCoin={setCoin} coin={coin} selectedPlayers={selectedPlayers} setSelectedPlayers={setSelectedPlayers} />
                     })
                 }
             </div>
